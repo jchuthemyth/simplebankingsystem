@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Banking_System.Simple_Banking_System-task-build-classes-java.main" target="11" />
+      <module name="Simple_Banking_System.Simple_Banking_System-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Banking_System.Simple_Banking_System-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Banking_System.Simple_Banking_System-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Banking_System.Simple_Banking_System-task-build-test-results.main" target="11" />
+      <module name="Simple_Banking_System.Simple_Banking_System-task-build-tmp.main" target="11" />
+      <module name="Simple_Banking_System.Simple_Banking_System-task-out.main" target="11" />
+      <module name="Simple_Banking_System.Simple_Banking_System-task.main" target="11" />
+      <module name="Simple_Banking_System.Topics-Command-line_arguments-Basic_calculator.main" target="11" />
+      <module name="Simple_Banking_System.Topics-Command-line_arguments-Command_line_arguments.main" target="11" />
+      <module name="Simple_Banking_System.Topics-Command-line_arguments-Get_the_game_mode.main" target="11" />
+      <module name="Simple_Banking_System.Topics-Command-line_arguments-How_to_start_a_program.main" target="11" />
+      <module name="Simple_Banking_System.Topics-Command-line_arguments-The_index_of_an_argument.main" target="11" />
+      <module name="Simple_Banking_System.Topics-Command-line_arguments-Theory.main" target="11" />
+      <module name="Simple_Banking_System.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
